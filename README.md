@@ -11,8 +11,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-media-query-ivg5pN1Tn6)
+- Live Site URL: [Blog Preview card](https://ujjval-dargar.github.io/Frontend-Challenge-5-Blog-preview-card/)
 
 
 ### Built with
